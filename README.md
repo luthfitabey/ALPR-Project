@@ -25,10 +25,10 @@ Usage :
 
 2.	Menjalan aplikasi menggunakan terminal(ubuntu)/CMD(windows) di dalam direktori aplikasi command: $ python vid.py
 
-  # Cara untuk menambahkan sampel foto ke train detector ada di link berikut:
-   https://github.com/openalpr/train-detector
+  # Cara untuk menambahkan sampel foto ke train detector:
+   
 
-1. Download repository pada link di atas
+1. Download [repositorynya](https://github.com/openalpr/train-detector)
 
 2. Crop plat pada foto
 
