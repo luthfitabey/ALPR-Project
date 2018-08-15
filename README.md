@@ -30,11 +30,10 @@ Usage :
 
 2.crop plat pada foto
 
-3.hasil crop tersebut diberi nama sesuai dengan nomor plat yang di crop seperti contoh,anda sedang memotong foto untuk plat AB 4413 DW,maka hasil tersebut diberi nama “AB4413DW”,dan harus konsisten memberi format gambar jika JPG maka JPG semua jika PNG maka PNG semua
+3.hasil crop tersebut diberi nama sesuai dengan nomor plat yang di crop seperti contoh,anda sedang memotong foto untuk plat AB 4413   DW, maka hasil tersebut diberi nama “AB4413DW”,dan harus konsisten memberi format gambar jika JPG maka JPG semua jika PNG maka PNG         semua
 4.Kemudian hasil crop di masukan di 1 folder yang sama
 
-5.Kemudian Edit file Prep.py ,kemudian ke Line-31
-edit menjadi “BASE_DIT + [Folder tempat menyimpan hasil crop] +’/’ ”
+5.Kemudian Edit file Prep.py ,kemudian ke Line-31 edit menjadi “BASE_DIT + [Folder tempat menyimpan hasil crop] +’/’ ”
 
 6.kemudian buka terminal di directory train-detector
 
@@ -50,5 +49,6 @@ edit menjadi “BASE_DIT + [Folder tempat menyimpan hasil crop] +’/’ ”
    •	Setelah prep.py dijalankan maka terdapat command yang siap dijalankan kembali,lalu copy-paste command tersebut ,sebelum dijalankan        command tersebut ubahlah stages menjadi maksimal 11, kemudian ubah nilai numPos ¼ dari total gambar yang ingin di train kemudian          enter.
    
    •	Kemudian hasil dari train tersebut bisa di lihat di directory out,kemudian copy cascade.xml ke runtime anda.
-
-   Kekurangan dari aplikasi ini adalah kurangnya ke akuratan dari pendeteksian plat itu,yang kemungkinan penyebabnya adalah kurangnya sampel foto plat yang saat ini di gunakan baru sekitar 2400 sampel foto yang jika di lihat dari sampel foto negara yang sudah jadi sekitar 8000 sampel foto.
+   
+  
+Kekurangan dari aplikasi ini adalah kurangnya ke akuratan dari pendeteksian plat itu,yang kemungkinan penyebabnya adalah kurangnya sampel foto plat yang saat ini di gunakan baru sekitar 2400 sampel foto yang jika di lihat dari sampel foto negara yang sudah jadi sekitar 8000 sampel foto.
