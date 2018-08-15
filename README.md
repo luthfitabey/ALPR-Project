@@ -51,6 +51,6 @@ Usage :
    
       •	Kemudian hasil dari train tersebut bisa di lihat di directory out, kemudian copy cascade.xml ke runtime anda.
    
-'''   
+``` 
 Kekurangan dari aplikasi ini adalah kurangnya keakuratan dari pendeteksian plat itu, penyebabnya adalah kurangnya sampel foto plat yang saat ini di gunakan baru sekitar 2400 sampel foto yang jika di lihat dari sampel foto negara yang sudah jadi sekitar 8000 sampel foto.
-''''
+```
