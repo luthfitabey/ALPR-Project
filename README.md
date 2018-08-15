@@ -17,53 +17,11 @@ Depedencies :
 
 Usage :
 1. Mengatur masukan source yang akan dideteksi pada file vid.py
-
-
-
-
-
-
-
-
-Line 19-20	: Masukan berupa video stream
-Line 21	: Masukan berupa video maupun gambar
-
-Line 22	: Masukan berupa video dari webcam PC
+   Line 19-20	: Masukan berupa video stream
+   Line 21	: Masukan berupa video maupun gambar
+   Line 22	: Masukan berupa video dari webcam PC
 
 2.	Menjalan aplikasi menggunakan terminal(ubuntu)/CMD(windows) di dalam direktori aplikasi command: $ python vid.py
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Menampilkan hasil dari	Menampilkan video yang akan
 identifikasi plat pada video	dideteksi.
