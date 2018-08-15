@@ -1,7 +1,7 @@
 # ALPR-Project
 Project untuk mendeteksi dan membaca nomor plat Indonesia
 
-(https://image.ibb.co/gObDap/tes.jpg)
+![Gambar ALPR](https://image.ibb.co/gObDap/tes.jpg)
 
 Plate Number Recognition adalah aplikasi yang di tulis dalam python, opencv, openalpr dan Tesseract. Aplikasi ini dapat menganalisis gambar maupun video yang di dalamnya terdapat gambar plat yang kemudian di identifikasikan dengan output string.
 
