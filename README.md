@@ -5,7 +5,7 @@ Plate Number Recognition adalah aplikasi yang di tulis dalam python, opencv, ope
 
 Depedencies :
 
--	Python
+-	Python (https://www.python.org/downloads/)
 
 -	Tesseract v 4.00 ( https://github.com/tesseract-ocr/tesseract )
 
