@@ -26,18 +26,18 @@ Usage :
   # Cara untuk menambahkan sampel foto ke train detector ada di link berikut:
    https://github.com/openalpr/train-detector
 
-1.download repository pada link di atas
+1. Download repository pada link di atas
 
-2.crop plat pada foto
+2. Crop plat pada foto
 
-3.hasil crop tersebut diberi nama sesuai dengan nomor plat yang di crop seperti contoh,anda sedang memotong foto untuk plat AB 4413   DW, maka hasil tersebut diberi nama “AB4413DW”,dan harus konsisten memberi format gambar jika JPG maka JPG semua jika PNG maka PNG         semua
-4.Kemudian hasil crop di masukan di 1 folder yang sama
+3. Hasil crop tersebut diberi nama sesuai dengan nomor plat yang di crop seperti contoh,anda sedang memotong foto untuk plat AB 4413   DW, maka hasil tersebut diberi nama “AB4413DW”,dan harus konsisten memberi format gambar jika JPG maka JPG semua jika PNG maka PNG         semua
+4. Kemudian hasil crop di masukan di 1 folder yang sama
 
-5.Kemudian Edit file Prep.py ,kemudian ke Line-31 edit menjadi “BASE_DIT + [Folder tempat menyimpan hasil crop] +’/’ ”
+5. Kemudian Edit file Prep.py ,kemudian ke Line-31 edit menjadi “BASE_DIT + [Folder tempat menyimpan hasil crop] +’/’ ”
 
-6.kemudian buka terminal di directory train-detector
+6. Kemudian buka terminal di directory train-detector
 
-7.jalankan command-command ini:
+7. Jalankan command-command ini:
       •	rm ./out/* (Menghapus isi directory ‘out’)
    
       •	./prep.py neg (menyiapkan gambar negatif)
