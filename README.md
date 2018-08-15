@@ -7,15 +7,15 @@ Plate Number Recognition adalah aplikasi yang di tulis dalam python, opencv, ope
 
 Depedencies :
 
--	Python (https://www.python.org/downloads/)
+-	[Python](https://www.python.org/downloads/)
 
--	Tesseract v 4.00 ( https://github.com/tesseract-ocr/tesseract )
+-	[Tesseract v 4.00](https://github.com/tesseract-ocr/tesseract )
 
--	Openalpr ( https://github.com/openalpr/openalpr )
+-	[Openalpr]( https://github.com/openalpr/openalpr )
 
--	OpenCV v3.4.1 ( https://github.com/opencv/opencv )
+-	[OpenCV v3.4.1](https://github.com/opencv/opencv )
 
--	Project ( https://github.com/luthfitabey/ALPR-Project )
+-	[Project](https://github.com/luthfitabey/ALPR-Project )
 
 Usage :
 1. Mengatur masukan source yang akan dideteksi pada file vid.py
