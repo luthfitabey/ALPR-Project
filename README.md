@@ -19,8 +19,11 @@ Plate Number Recognition adalah aplikasi yang di tulis dalam python, opencv, ope
 
 ### Usage :
 1. Mengatur masukan source yang akan dideteksi pada file vid.py
+
    Line 19-20	: Masukan berupa video stream
+   
    Line 21	   : Masukan berupa video maupun gambar
+   
    Line 22	   : Masukan berupa video dari webcam PC
 
 2.	Menjalan aplikasi menggunakan terminal(ubuntu)/CMD(windows) di dalam direktori aplikasi command: $ python vid.py
