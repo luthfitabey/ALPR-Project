@@ -38,7 +38,7 @@ Usage :
 6. Kemudian buka terminal di directory train-detector
 
 7. Jalankan command-command ini:
-      
+```
       •	rm ./out/* (Menghapus isi directory ‘out’)
    
       •	./prep.py neg (menyiapkan gambar negatif)
@@ -50,5 +50,6 @@ Usage :
       •	Setelah prep.py dijalankan maka terdapat command yang siap dijalankan kembali,lalu copy-paste command tersebut, sebelum dijalankan command tersebut ubahlah stages menjadi maksimal 11, kemudian ubah nilai numPos ¼ dari total gambar yang ingin di train kemudian enter.
    
       •	Kemudian hasil dari train tersebut bisa di lihat di directory out, kemudian copy cascade.xml ke runtime anda.
+```
    
 > Kekurangan dari aplikasi ini adalah kurangnya keakuratan dari pendeteksian plat itu, penyebabnya adalah kurangnya sampel foto plat yang saat ini di gunakan baru sekitar 2400 sampel foto yang jika di lihat dari sampel foto negara yang sudah jadi sekitar 8000 sampel foto.
