@@ -54,4 +54,4 @@ Usage :
   
   
   
-   Kekurangan dari aplikasi ini adalah kurangnya ke akuratan dari pendeteksian plat itu,yang kemungkinan penyebabnya adalah kurangnya sampel foto plat yang saat ini di gunakan baru sekitar 2400 sampel foto yang jika di lihat dari sampel foto negara yang sudah jadi sekitar 8000 sampel foto.
+Kekurangan dari aplikasi ini adalah kurangnya ke akuratan dari pendeteksian plat itu,yang kemungkinan penyebabnya adalah kurangnya sampel foto plat yang saat ini di gunakan baru sekitar 2400 sampel foto yang jika di lihat dari sampel foto negara yang sudah jadi sekitar 8000 sampel foto.
